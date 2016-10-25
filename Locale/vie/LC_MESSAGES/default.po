@@ -1,0 +1,11 @@
+msgid "Send"
+msgstr "Gửi"
+
+msgid "Reply"
+msgstr "Đáp lại"
+
+msgid "Forward"
+msgstr "Bước tiếp"
+
+msgid "Delete"
+msgstr "Xóa"
